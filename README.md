@@ -13,3 +13,10 @@ Esercizi di Grafica in movimento (2023)
 
 ## Esercizio 1B
 [dittico](esercizio_1B/indexA.html)
+
+
+## Esercio 2A  
+[forma e senso](esercizio_2A/forma_senso.html)  
+
+## Esercizio 2B  
+[yoga](esercizio_2B/yoga.html)
