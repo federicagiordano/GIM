@@ -30,7 +30,7 @@ Esercizi di Grafica in movimento (2023)
 [Pioggia](esercizio_3/3_pioggia.html)  
 
 ## Esercizio 4  
-[Orologio_analogico](Esercizio_4/orologio_analogico/orologio_analogico.html)  
+[Orologio analogico](Esercizio_4/orologio_analogico/orologio_analogico.html)  
 [Orologio](Esercizio_4/orologio/orologio.html)
 
 Con la caduta dall'alto di tre elemento mostro il passare del tempo. Gli elementi sono stati differenziati con il colore che va a cambiarsi col passare del tempo. 
