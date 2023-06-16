@@ -15,7 +15,7 @@ Esercizi di Grafica in movimento (2023)
 [Spostamento 3](esercizio_1A/spostamento_3.html)  
 
 ## Esercizio 1B
-[Dittico](esercizio_1B/indexA.html)
+[Dittico](esercizio_1B/dittico.html)
 
 
 ## Esercio 2A  
@@ -27,7 +27,7 @@ Esercizi di Grafica in movimento (2023)
 ## Esercizo 3
 [Pong](esercizio_3/1_pong/pong.html)  
 [Neve](esercizio_3/2_neve/neve.html)   
-[Pioggia](esercizio_3/3_pioggia.html)  
+[Pioggia](esercizio_3/3_pioggia/pioggia.html)  
 
 ## Esercizio 4  
 [Orologio analogico](Esercizio_4/orologio_analogico/orologio_analogico.html)  
