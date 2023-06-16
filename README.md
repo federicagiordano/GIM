@@ -33,4 +33,4 @@ Esercizi di Grafica in movimento (2023)
 [Orologio analogico](Esercizio_4/orologio_analogico/orologio_analogico.html)  
 [Orologio](Esercizio_4/orologio/orologio.html)
 
-Con la caduta dall'alto di tre elemento mostro il passare del tempo. Gli elementi sono stati differenziati con il colore che va a cambiarsi col passare del tempo. 
+Con la caduta dall'alto di tre elementi mostro il passare del tempo. Gli elementi sono stati differenziati con il colore che va a cambiarsi col passare del tempo. 
